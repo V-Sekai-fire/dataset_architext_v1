@@ -18,9 +18,7 @@ size_categories:
 This is the raw training data used to train the Architext models referenced in "Architext: Language-Driven Generative Architecture Design" . 
 
 - **Homepage:** https://architext.design/
-- **Repository:** 
 - **Paper:** https://arxiv.org/abs/2303.07519
-- **Leaderboard:** 
 - **Point of Contact:** Theodoros Galanos (https://twitter.com/TheodoreGalanos)
 
 
