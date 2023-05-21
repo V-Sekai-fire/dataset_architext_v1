@@ -37,12 +37,11 @@ The dataset is licensed under the Apache 2.0 license.
 
 If you use the dataset please cite:
 
+```
 {
   title = {Architext: Language-Driven Generative Architecture Design},
-
   author = {Galanos, Theodoros and Liapis, Antonios and Yannakakis, Georgios N},
-
   journal = {arXiv preprint arXiv:2303.07519},
-
   year = {2023}
 }
+```
